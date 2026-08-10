@@ -181,6 +181,7 @@ Compliance and security certifications are critical for modern businesses. This 
 
 *Tools for security audits and compliance assessments*
 
+- **[heygrc](https://heygrc.com)** - GitHub App that reviews every pull request against compliance frameworks (ISO 27001, SOC 2, GDPR, EU AI Act, and more), flags control-relevant changes, and cites the exact control clause. By ISMS Copilot.
 - **[LowerPlane](https://lowerplane.com)** - Automated audit preparation and continuous compliance monitoring with real-time evidence collection.
 - **[Drata](https://drata.com)** - Continuous compliance monitoring and automated audit preparation.
 - **[Vanta](https://vanta.com)** - Automated compliance monitoring and audit management.
