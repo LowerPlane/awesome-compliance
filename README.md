@@ -203,6 +203,7 @@ Compliance and security certifications are critical for modern businesses. This 
 - **[Tugboat Logic](https://tugboatlogic.com)** - Policy library and management.
 - **[Aptible](https://www.aptible.com)** - Security and compliance for developers with policy management.
 - **[Egnyte](https://www.egnyte.com/solutions/compliance.html)** - Content governance and policy management.
+- **[ISMS Copilot](https://www.ismscopilot.com)** - Specialized AI assistant for drafting and refining framework-aligned policies (ISO 27001, SOC 2, NIS 2, GDPR, DORA, and more), with multi-client workspaces and optional EU-region AI mode. Free tools hub: [ismscopilot.com/resources](https://www.ismscopilot.com/resources).
 - **[PowerDMS](https://www.powerdms.com)** - Policy and document management for regulated industries.
 - **[NAVEX Global](https://www.navex.com)** - Ethics and compliance policy management.
 
