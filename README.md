@@ -47,6 +47,7 @@ Compliance and security certifications are critical for modern businesses. This 
 - **[Tugboat Logic](https://tugboatlogic.com)** - Security assurance platform for SOC 2, ISO 27001, and NIST.
 - **[Oneleet](https://oneleet.com)** - End-to-end security compliance automation for startups.
 - **[HIPAA One](https://hipaaone.com)** - HIPAA compliance software for healthcare organizations.
+- **[ISMS Copilot](https://www.ismscopilot.com)** - Specialized AI assistant for ISO 27001, SOC 2, NIS 2, GDPR, DORA, and related frameworks: policy drafting, risk assessments, control mapping, and audit prep. Free tools: [ismscopilot.com/resources](https://www.ismscopilot.com/resources).
 - **[Laika](https://laikahealth.com)** - Healthcare compliance and security platform.
 
 ### Enterprise GRC Platforms
@@ -514,6 +515,7 @@ Compliance and security certifications are critical for modern businesses. This 
 - **[Tugboat Logic](https://tugboatlogic.com)** - Security assurance platform for SOC 2, ISO 27001, and NIST.
 - **[Oneleet](https://oneleet.com)** - End-to-end security compliance automation for startups.
 - **[HIPAA One](https://hipaaone.com)** - HIPAA compliance software for healthcare organizations.
+- **[ISMS Copilot](https://www.ismscopilot.com)** - Specialized AI assistant for ISO 27001, SOC 2, NIS 2, GDPR, DORA, and related frameworks: policy drafting, risk assessments, control mapping, and audit prep. Free tools: [ismscopilot.com/resources](https://www.ismscopilot.com/resources).
 - **[Laika](https://laikahealth.com)** - Healthcare compliance and security platform.
 
 ### Enterprise GRC Platforms
