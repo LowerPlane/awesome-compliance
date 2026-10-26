@@ -254,6 +254,7 @@ Compliance and security certifications are critical for modern businesses. This 
 - **[BeyondTrust](https://www.beyondtrust.com)** - Privileged access and identity security.
 - **[Ping Identity](https://www.pingidentity.com)** - Intelligent identity solutions.
 - **[ForgeRock](https://www.forgerock.com)** - Digital identity and access management.
+- **[Speakeasy control plane](https://github.com/speakeasy-api/gram)** - Identity-aware MCP gateway applying role-based tool permissions and retaining tool-call audit records.
 - **[Teleport](https://goteleport.com)** - Access platform for infrastructure.
 
 ## Security Monitoring
