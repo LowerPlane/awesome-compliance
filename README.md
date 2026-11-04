@@ -48,6 +48,7 @@ Compliance and security certifications are critical for modern businesses. This 
 - **[Oneleet](https://oneleet.com)** - End-to-end security compliance automation for startups.
 - **[HIPAA One](https://hipaaone.com)** - HIPAA compliance software for healthcare organizations.
 - **[Laika](https://laikahealth.com)** - Healthcare compliance and security platform.
+- **[Attestlane](https://attestlane.to)** - SOC 2 readiness for 1-50 person B2B software teams, with AI-drafted policies for the team to review, a 39-item evidence checklist, and an auditor-ready package. Free assessment, then paid plans.
 
 ### Enterprise GRC Platforms
 
